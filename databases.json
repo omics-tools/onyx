@@ -1,0 +1,10 @@
+{
+  "human": {
+    "url": "https://github.com/omics-tools/onyx/releases/download/v1.0-db/human_hg38_k33_v1.tar.gz",
+    "sha256": "ef5581237e220a94c5fa5cbd6023190ec3b1fc247d909af63eb60cfa64d5fe5b"
+  },
+  "chicken": {
+    "url": "https://github.com/omics-tools/onyx/releases/download/v1.0-db/chicken_bGalGal1_k33_v1.tar.gz",
+    "sha256": "c6f7ad3b8569a5890b4e59caf57957ed3f1ae7f287753f30efa2b2c659d5e0bd"
+  }
+}
