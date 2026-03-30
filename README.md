@@ -124,7 +124,7 @@ onyx classify \
 
 Parameters:
 
-| option | description |
+| Option | Description |
 |------|-------------|
 | `--bootstrap` | number of bootstrap replicates |
 | `--bootstrap-fraction` | subsampling fraction |
@@ -134,11 +134,11 @@ Parameters:
 
 # Input formats
 
-| format | description | Extensions |
+| Format | Description | Extensions |
 |------|-------------|-------------|
 | FASTQ | sequencing reads (single or paired reads) | `.fq`, `.fastq`, `.fq.gz`, `.fastq.gz` |
-| BAM | aligned reads (single or paired reads) |`.fa`, `.fasta`, `.fa.gz`, `.fasta.gz` |
-| FASTA | multi-FASTA sequences | `.bam` (with bam.bai) |
+| BAM | aligned reads (single or paired reads) |`.bam` (with bam.bai) |
+| FASTA | multi-FASTA sequences | `.fa`, `.fasta`, `.fa.gz`, `.fasta.gz`  |
 
 ONYX supports several common sequencing file formats as input. All files provided to `--seqs` must have the same format.
 
