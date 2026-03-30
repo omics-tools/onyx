@@ -1,0 +1,33 @@
+package:
+  name: onyx
+  version: "0.0.1"
+
+source:
+  path: ..
+
+build:
+  noarch: python
+  script: python -m pip install . --no-deps -vv
+
+requirements:
+  host:
+    - python >=3.8
+    - pip
+    - setuptools
+
+  run:
+    - python >=3.8
+    - tqdm
+    - requests
+    - kmc
+    - seqkit
+    - samtools
+
+about:
+  home: https://github.com/omics-tools/onyx
+  license: MIT
+  summary: ONYX, An alignment-free biological sex inference from high-throughput sequencing data
+
+extra:
+  recipe-maintainers:
+    - Koji Ishiya
