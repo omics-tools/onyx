@@ -90,6 +90,19 @@ onyx -h
 
 # Quick Start
 
+## 0. Get the list of available preset databases
+```bash
+onyx download-db --list
+```
+
+Then, you can get the list.
+```bash
+Available ONYX preset databases:
+
+human      Homo sapiens (hg38)
+chicken    Gallus gallus (bGalGal1)
+```
+
 ## 1. Download preset database
 ```bash
 #Download the human preset db at the current directory. 
