@@ -51,7 +51,25 @@ pip install tqdm requests
 
 # Installation
 
-## Installation via conda
+## Installation via Bioconda
+
+```bash
+#Conda
+#Create a new conda environment & install onyx
+conda create -n onyx_env -c conda-forge -c bioconda onyx
+conda activate onyx_env
+onyx -h
+```
+
+```bash
+#Mamba
+#Create a new conda environment & install onyx
+mamba create -n onyx_env -c conda-forge -c bioconda onyx
+mamba activate onyx_env
+onyx -h
+```
+
+## Installation via Anaconda
 
 ```bash
 #Conda
@@ -68,8 +86,6 @@ mamba create -n onyx_env -c omics-tools onyx
 conda activate onyx_env
 onyx -h
 ```
-ONYX is currently awaiting approval for inclusion in Bioconda. The instructions above describe how to install it before it is added to Bioconda.
-
 ---
 
 # Quick Start
