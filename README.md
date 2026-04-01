@@ -106,7 +106,7 @@ chicken    Gallus gallus (bGalGal1)
 ## 1. Download preset database
 ```bash
 #Download the human preset db at the current directory. 
-onyx download-db human --out-dir ./
+onyx download-db human --outdir ./
 ```
 
 The preset human database includes:
