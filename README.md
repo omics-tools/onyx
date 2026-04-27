@@ -101,6 +101,7 @@ Available ONYX preset databases:
 
 human      Homo sapiens (hg38)
 chicken    Gallus gallus (bGalGal1)
+atlantic_cod Gadus morhua (gadMor2)
 ```
 
 ## 1. Download preset database
