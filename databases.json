@@ -13,7 +13,7 @@
     "url": "https://github.com/omics-tools/onyx/releases/download/v1.0-db/chicken_bGalGal1_k33_v1.tar.gz",
     "sha256": "c6f7ad3b8569a5890b4e59caf57957ed3f1ae7f287753f30efa2b2c659d5e0bd"
   },
-  "atlantic cod": {
+  "atlantic_cod": {
     "name": "atlantic_cod_gadMor2_k33_v1",
     "species": "Gadus morhua",
     "reference": "gadMor2",
