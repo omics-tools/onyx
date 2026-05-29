@@ -257,7 +257,9 @@ onyx build \
 
 # Citation
 
-If you use ONYX in your research, please cite the associated publication (to be released).
+If you use ONYX in your research, please cite this publication.
+
+Koji Ishiya, ONYX: an alignment-free biological sex inference from high-throughput sequencing data, Frontiers in Bioinformatics, 6: 1842658 doi: 10.3389/fbinf.2026.1842658
 
 ---
 
