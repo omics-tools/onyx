@@ -259,7 +259,7 @@ onyx build \
 
 If you use ONYX in your research, please cite this publication.
 
-Koji Ishiya, ONYX: an alignment-free biological sex inference from high-throughput sequencing data, Frontiers in Bioinformatics, 6: 1842658 doi: 10.3389/fbinf.2026.1842658
+Koji Ishiya, ONYX: an alignment-free biological sex inference from high-throughput sequencing data, Frontiers in Bioinformatics, 6: 1842658 doi: [10.3389/fbinf.2026.1842658](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2026.1842658/full)
 
 ---
 
